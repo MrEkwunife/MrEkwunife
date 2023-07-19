@@ -11,7 +11,7 @@ I'm a Cloud and Software engineering student at Altschool Africa and Alx Africa 
 - 🌱 I’m currently learning JavaScript, CSS/SCSS, and NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend Enginner (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailtoekwunifechimobi16@gmail.com.
 - 📚 I'm currently not an Undergraduate.
 - ➗ I'm a math Guru
 - 🖥️ I would be studying Computer Science in the University
