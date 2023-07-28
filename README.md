@@ -6,7 +6,7 @@ I'm a Cloud and Software engineering student at Altschool Africa and Alx Africa 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 🤓 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at both AltSchool Africa [School of Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023 and Alx Africa [School of Software engineering.]
 - 🌱 I’m currently learning JavaScript, CSS/SCSS, and NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
