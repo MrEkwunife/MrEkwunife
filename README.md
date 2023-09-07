@@ -31,4 +31,4 @@ I'm a Cloud and Software engineering student at Altschool Africa and Alx Africa 
 | ------------- | ------------- |
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrEkwunife&theme=dark)](https://git.io/streak-stats)
-[![Chimobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=segun0x&layout=compact&theme=solarized-dark&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Chimobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrEkwunife&layout=compact&theme=solarized-dark&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
