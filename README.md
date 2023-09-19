@@ -27,5 +27,5 @@ I'm a Cloud and Software engineering student at AltSchool Africa and Alx Africa 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrEkwunife&show_icons=true&include_all_commits=true&hide_border=true" alt="Chimobi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEkwunife&langs_count=8&layout=compact&hide_border=true" alt="Chimobi's GitHub stats" /> |
 | ------------- | ------------- |
 
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=MrEkwunife&theme=dark)](https://git.io/streak-stats) | [![Chimobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrEkwunifex&layout=compact&theme=solarized-dark&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=MrEkwunife&theme=dark)](https://git.io/streak-stats) | [![Chimobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrEkwunife&layout=compact&theme=solarized-dark&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats) |
 |------------- | -------------- |
