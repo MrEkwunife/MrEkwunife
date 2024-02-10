@@ -13,7 +13,7 @@ I'm a Cloud and Software engineering student at AltSchool Africa and Alx Africa 
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtoekwunifechimobi16@gmail.com.
 - 📚 I'm currently not an Undergraduate.
-- ➗ I'm a math Guru
+- ➗ I'm a maths Guru
 - 🖥️ I would be studying Computer Science at the University
 
 ---
