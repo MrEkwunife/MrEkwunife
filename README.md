@@ -23,6 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrEkwunife&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrEkwunife.MrEkwunife&"  />
-</div>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/3fb77c2e-d42f-4e98-8748-1a91efbedd3d/thumbnail" >
+</p>
